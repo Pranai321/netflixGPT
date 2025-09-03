@@ -5,7 +5,7 @@
 4) Empowering users with natural language queries, NetflixGPT achieves an impressive 95% accuracy rate, enhancing search relevance and user satisfaction.<br />
 5) With its captivating shimmer effect, NetflixGPT boosts user engagement and experience, leading to a 25% increase in user retention.<br />
 
-<!-- ![Screenshot 2024-02-12 115947](https://github.com/Pranai321/NetflixGPT/utils/netflixGPT) -->
+![Screenshot 2024-02-12 115947](https://github.com/Pranai321/NetflixGPT/utils/netflixGPT)
 
 
 
