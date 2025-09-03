@@ -28,7 +28,7 @@ export const LANGUAGE = [
     { langIdentifier: "persian", name: "Persian" },
 ];
 
-export const OPENAI_KEY = "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";
+export const OPENAI_KEY = import.meta.env.VITE_OPENAI_KEY;
 
 
 export const FIREBASE_API_KEY = "AIzaSyBJXETCdlY3EejIaLWfZw6f-p3Xsc6_ABs"
